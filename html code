@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Professor Richard Dawkins</h1>
+        <h2 class="text-center"><em>Author of "The Selfish Gene"</em></h2>
+        <div class="thumbnail"><img src="http://starcasm.net/wp-content/uploads/2013/04/Richard-Dawkins.jpg"></div>
+          <div class="caption text-center"><em>"The scientific world view is so much more exciting, more poetic, more filled with sheer wonder than anything in poverty-stricken arsenals of the religious imaginations"</em></div>
+          <div class="col-xs-12 col-sm-offset-2 col-md-8 col-md-offset-2">
+            <h3>timeline of Richard Dawkins life and his most popular books:</h3>
+            <ul>
+              <li><strong>1941</strong> - born in Nairobi, British Kenya</li>
+              <li><strong>1949</strong> - moves to England</li>
+              <li><strong>1962</strong> - finishes zoology at Balliol College, Oxford</li>
+              <li><strong>1967 to 1969</strong> - teaches zoology at the University of California, Berkeley</li>
+              <li><strong>1970</strong> -  returnes to the University of Oxford as a lecturer</li>
+              <li><strong>1976</strong> - <em>The Selfish Gene</em> is published. Publisher trying to convince Dawkins that the title should be <em>The Immortal Helix</em> but he rejects</li>
+              <li><strong>1982</strong><em> - The Extended Phenotype</em></li>
+                <li><strong>1986</strong> - <em>The Bling Watchmaker</em></li>
+              <li><strong>2004</strong><em> - The Ancestor's Tale</em></li>
+              <li><strong>2006</strong><em> - God Delusion</em></li>
+              <li><strong>2009</strong><em> - The Greatest Show on Earth: The Evidence for Evolution</em></li>     
+              </ul>
+            <blockquote>
+            <p>"We are all atheists about most of the goods that humanity have evered belived in.<br /><br /> Some of us just go one god further"</p>
+       <footer><cite>Richard Dawkins</cite></footer>
+          </blockquote>
+    <p>read more on  <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Wikipedia</a></p>
+      </div>
+      </div>
+  </div>
+      
+</div>
+     <footer class="text-center">   
+    <p>Written and coded by <a href="http://codepen.io/lordregis/" target="_blank">Michał Głupczyk</a></p>
+  </footer>  
+</div>
